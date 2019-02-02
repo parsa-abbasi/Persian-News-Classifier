@@ -1,8 +1,11 @@
-# news-classifier
+# Persian News Classifier
+Classify and predict the category and agency of each news.
 
+## 1) Naive Bayes
+Implement a Naive Bayes classifier from scratch
 
-news classifier based on Naive bayes classifier from scratch!! 
+## 2) Baseline Models
+Test some baseline models such as Naive Bayes, SGD and Linear SVM using sklearn library
 
-
-
-to see the codes just run the 'nlp.ipynb' and do not forget to download 'out.jsonl' file.
+## 3) Neural Network Model
+Apply a Bidirectional LSTM model using Keras
